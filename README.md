@@ -1,4 +1,4 @@
-# smart_farming_web
+# smart_farming_web (a.k.a smart-farming-web)
 
 A new Flutter project.
 
